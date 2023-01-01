@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "signup": {
+      "commandName": "Project",
+      "commandLineArgs": "signup"
+    },
+    "signin": {
+      "commandName": "Project",
+      "commandLineArgs": "signin"
+    }
+  }
+}
